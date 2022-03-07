@@ -10,9 +10,6 @@
 - ❓ Ask me about anything related to discord.py ❓  
   
 
-- 📑 Fun fact: I use tabs over spaces 🚀  
-  
-
 <br/>  
 
 
@@ -63,7 +60,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriLahav03&layout=compact" align="center" /></div>  
   
 
 
