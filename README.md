@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriLahav03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=OriLahav03&theme=onedark)
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/885798640155754506/950398999066714122/Me.gif">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriLahav03&layout=compact)
