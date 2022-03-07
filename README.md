@@ -1,7 +1,7 @@
 ### <div align="center">I'm Ori</div>  
   
 
-- 🤖 I’m currently working on Bot Developing 🤖  
+- 🤖 I’m currently working on Bot Development 🤖  
   
 
 - 🎮 I’m currently learning PyGame 🎮  
